@@ -59,8 +59,8 @@
  - 🔢 Show full expression above result
 
 ## 👨‍💻 Developer
-** Chaithravardhan Reddy Chepati **
- - 📬 chepatichaithravardhanreddy@gmail.com
+** Homeshwar Ganjalla**
+ - 📬 ganjallahomeshwar@gmail.com
 
 ## 🌟 Like this project?
 - Give it a ⭐ on GitHub or share it with others who are learning JavaFX!
